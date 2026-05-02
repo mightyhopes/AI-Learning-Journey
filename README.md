@@ -18,8 +18,6 @@ Repositori ini dibagi menjadi beberapa bagian berdasarkan tahapan materi:
 
 ## 💡 Highlight Proyek
 
-*(Nantinya, kamu bisa menambahkan daftar proyek terbaikmu di sini beserta link langsung ke file `.ipynb`-nya)*
-*   [Prediksi Diabetes menggunakan Neural Network PyTorch](./02_Deep_Learning_Fundamentals/S5E2_Diabetes_Prediction.ipynb)
 
 ---
 *Dibuat untuk tujuan dokumentasi dan pembelajaran berkelanjutan.*
