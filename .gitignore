@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Mengabaikan file dataset
+*.csv
+*.tsv
+*.json
+*.zip
+*.tar.gz
+/datasets/
+/data/
+
+# Mengabaikan file model Deep Learning yang berat
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.pkl
+
+# Mengabaikan folder environment / cache Colab
+.ipynb_checkpoints/
+__pycache__/
